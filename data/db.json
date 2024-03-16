@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Banana"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Peaches"
+    },
+    {
+      "id": "1111",
+      "checked": false,
+      "item": "Apples"
+    },
+    {
+      "id": "11111",
+      "checked": false,
+      "item": "Strawberries"
+    },
+    {
+      "id": "111111",
+      "checked": false,
+      "item": "Cake"
+    },
+    {
+      "id": "1111111",
+      "checked": false,
+      "item": "Cookies"
+    },
+    {
+      "id": "11111111",
+      "checked": false,
+      "item": "Pizza"
+    }
+  ]
+}
